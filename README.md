@@ -1,6 +1,17 @@
 # project_main
 
 A new Flutter project.
+# 동물 소개, 일정 관리 앱
+
+---
+
+
+![image](https://github.com/dpcdrypak/Flutter_AnimalApp/assets/112855199/0578753a-a9dc-4620-9de9-e5ab0331904e)
+
+![image](https://github.com/dpcdrypak/Flutter_AnimalApp/assets/112855199/116cb5ae-64c6-4ae5-80b3-662cea0599b8)
+
+![image](https://github.com/dpcdrypak/Flutter_AnimalApp/assets/112855199/e2409d39-fa5a-4a0c-a414-0fdd5d46b312)
+
 
 ## Getting Started
 
